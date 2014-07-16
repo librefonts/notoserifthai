@@ -1,0 +1,1157 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GPOS>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="thai"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=2 -->
+            <FeatureIndex index="0" value="0"/>
+            <FeatureIndex index="1" value="1"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=2 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="mark"/>
+        <Feature>
+          <!-- LookupCount=1 -->
+          <LookupListIndex index="0" value="0"/>
+        </Feature>
+      </FeatureRecord>
+      <FeatureRecord index="1">
+        <FeatureTag value="mkmk"/>
+        <Feature>
+          <!-- LookupCount=2 -->
+          <LookupListIndex index="0" value="1"/>
+          <LookupListIndex index="1" value="2"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=3 -->
+      <Lookup index="0">
+        <LookupType value="4"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <MarkBasePos index="0" Format="1">
+          <MarkCoverage Format="2">
+            <Glyph value="uni0E31"/>
+            <Glyph value="uni0E34"/>
+            <Glyph value="uni0E35"/>
+            <Glyph value="uni0E36"/>
+            <Glyph value="uni0E37"/>
+            <Glyph value="uni0E38"/>
+            <Glyph value="uni0E39"/>
+            <Glyph value="uni0E3A"/>
+            <Glyph value="uni0E47"/>
+            <Glyph value="uni0E48"/>
+            <Glyph value="uni0E49"/>
+            <Glyph value="uni0E4A"/>
+            <Glyph value="uni0E4B"/>
+            <Glyph value="uni0E4C"/>
+            <Glyph value="uni0E4D"/>
+            <Glyph value="uni0E4E"/>
+          </MarkCoverage>
+          <BaseCoverage Format="2">
+            <Glyph value="uni0E01"/>
+            <Glyph value="uni0E02"/>
+            <Glyph value="uni0E03"/>
+            <Glyph value="uni0E04"/>
+            <Glyph value="uni0E05"/>
+            <Glyph value="uni0E06"/>
+            <Glyph value="uni0E07"/>
+            <Glyph value="uni0E08"/>
+            <Glyph value="uni0E09"/>
+            <Glyph value="uni0E0A"/>
+            <Glyph value="uni0E0B"/>
+            <Glyph value="uni0E0C"/>
+            <Glyph value="uni0E0D"/>
+            <Glyph value="uni0E0D.alt1"/>
+            <Glyph value="uni0E0E"/>
+            <Glyph value="uni0E0F"/>
+            <Glyph value="uni0E10"/>
+            <Glyph value="uni0E10.alt1"/>
+            <Glyph value="uni0E11"/>
+            <Glyph value="uni0E12"/>
+            <Glyph value="uni0E13"/>
+            <Glyph value="uni0E14"/>
+            <Glyph value="uni0E15"/>
+            <Glyph value="uni0E16"/>
+            <Glyph value="uni0E17"/>
+            <Glyph value="uni0E18"/>
+            <Glyph value="uni0E19"/>
+            <Glyph value="uni0E1A"/>
+            <Glyph value="uni0E1B"/>
+            <Glyph value="uni0E1C"/>
+            <Glyph value="uni0E1D"/>
+            <Glyph value="uni0E1E"/>
+            <Glyph value="uni0E1F"/>
+            <Glyph value="uni0E20"/>
+            <Glyph value="uni0E21"/>
+            <Glyph value="uni0E22"/>
+            <Glyph value="uni0E23"/>
+            <Glyph value="uni0E24"/>
+            <Glyph value="uni0E25"/>
+            <Glyph value="uni0E26"/>
+            <Glyph value="uni0E27"/>
+            <Glyph value="uni0E28"/>
+            <Glyph value="uni0E29"/>
+            <Glyph value="uni0E2A"/>
+            <Glyph value="uni0E2B"/>
+            <Glyph value="uni0E2C"/>
+            <Glyph value="uni0E2D"/>
+            <Glyph value="uni0E2E"/>
+            <Glyph value="uni0E30"/>
+            <Glyph value="uni0E32"/>
+            <Glyph value="uni0E40"/>
+            <Glyph value="uni0E41"/>
+            <Glyph value="uni0E42"/>
+            <Glyph value="uni0E43"/>
+            <Glyph value="uni0E44"/>
+            <Glyph value="uni25CC"/>
+          </BaseCoverage>
+          <!-- ClassCount=2 -->
+          <MarkArray>
+            <!-- MarkCount=16 -->
+            <MarkRecord index="0">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-210"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="1">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-160"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="2">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-160"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="3">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-160"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="4">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-160"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="5">
+              <Class value="1"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-160"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="6">
+              <Class value="1"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-160"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="7">
+              <Class value="1"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-140"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="8">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-120"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="9">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-170"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="10">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-360"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="11">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-320"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="12">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-180"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="13">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-500"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="14">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-140"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="15">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-90"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+          </MarkArray>
+          <BaseArray>
+            <!-- BaseCount=56 -->
+            <BaseRecord index="0">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1160"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1160"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="1">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1340"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1340"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="2">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1340"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1340"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="3">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="4">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="5">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1360"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1360"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="6">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="950"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="950"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="7">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1110"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1110"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="8">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1120"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1120"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="9">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1340"/>
+                <YCoordinate value="80"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1340"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="10">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1340"/>
+                <YCoordinate value="80"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1340"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="11">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1820"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1820"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="12">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1660"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1660"/>
+                <YCoordinate value="-450"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="13">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1660"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1660"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="14">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="-520"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="15">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="-520"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="16">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1090"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1130"/>
+                <YCoordinate value="-520"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="17">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1090"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1090"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="18">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1540"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1540"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="19">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1830"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1830"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="20">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1620"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1620"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="21">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1250"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1250"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="22">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1250"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1250"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="23">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1150"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1150"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="24">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1260"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1260"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="25">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1080"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1080"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="26">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1100"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1100"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="27">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1150"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1150"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="28">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="760"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1150"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="29">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1260"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1260"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="30">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="870"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1260"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="31">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1320"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1320"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="32">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="940"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1320"/>
+                <YCoordinate value="10"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="33">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="34">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1200"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1200"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="35">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1100"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1100"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="36">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="840"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="840"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="37">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1150"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1150"/>
+                <YCoordinate value="-520"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="38">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1120"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1120"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="39">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="-520"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="40">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="920"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="920"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="41">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="80"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1220"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="42">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1280"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1280"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="43">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1130"/>
+                <YCoordinate value="80"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1130"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="44">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1210"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1210"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="45">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1310"/>
+                <YCoordinate value="330"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1310"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="46">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1120"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1120"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="47">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1170"/>
+                <YCoordinate value="80"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1170"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="48">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="960"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="920"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="49">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="920"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="920"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="50">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="460"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="560"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="51">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1020"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1140"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="52">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="890"/>
+                <YCoordinate value="920"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="790"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="53">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="860"/>
+                <YCoordinate value="920"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="830"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="54">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="880"/>
+                <YCoordinate value="920"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1040"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+            <BaseRecord index="55">
+              <BaseAnchor index="0" Format="1">
+                <XCoordinate value="1100"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+              <BaseAnchor index="1" Format="1">
+                <XCoordinate value="1100"/>
+                <YCoordinate value="0"/>
+              </BaseAnchor>
+            </BaseRecord>
+          </BaseArray>
+        </MarkBasePos>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="6"/>
+        <LookupFlag value="518"/>
+        <!-- SubTableCount=1 -->
+        <MarkMarkPos index="0" Format="1">
+          <Mark1Coverage Format="2">
+            <Glyph value="uni0E31"/>
+            <Glyph value="uni0E34"/>
+            <Glyph value="uni0E35"/>
+            <Glyph value="uni0E36"/>
+            <Glyph value="uni0E37"/>
+            <Glyph value="uni0E47"/>
+            <Glyph value="uni0E48"/>
+            <Glyph value="uni0E49"/>
+            <Glyph value="uni0E4A"/>
+            <Glyph value="uni0E4B"/>
+            <Glyph value="uni0E4C"/>
+            <Glyph value="uni0E4D"/>
+            <Glyph value="uni0E4E"/>
+            <Glyph value="uni0E48.small"/>
+            <Glyph value="uni0E49.small"/>
+            <Glyph value="uni0E4A.small"/>
+            <Glyph value="uni0E4B.small"/>
+            <Glyph value="uni0E4C.small"/>
+          </Mark1Coverage>
+          <Mark2Coverage Format="2">
+            <Glyph value="uni0E31"/>
+            <Glyph value="uni0E34"/>
+            <Glyph value="uni0E35"/>
+            <Glyph value="uni0E36"/>
+            <Glyph value="uni0E37"/>
+            <Glyph value="uni0E47"/>
+            <Glyph value="uni0E48"/>
+            <Glyph value="uni0E49"/>
+            <Glyph value="uni0E4A"/>
+            <Glyph value="uni0E4B"/>
+            <Glyph value="uni0E4C"/>
+            <Glyph value="uni0E4D"/>
+            <Glyph value="uni0E4E"/>
+            <Glyph value="uni0E48.small"/>
+            <Glyph value="uni0E49.small"/>
+            <Glyph value="uni0E4A.small"/>
+            <Glyph value="uni0E4B.small"/>
+            <Glyph value="uni0E4C.small"/>
+          </Mark2Coverage>
+          <!-- ClassCount=1 -->
+          <Mark1Array>
+            <!-- MarkCount=18 -->
+            <MarkRecord index="0">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="1">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="2">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="3">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="4">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="5">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="100"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="6">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="7">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-120"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="8">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="9">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="10">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="11">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-550"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="12">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="100"/>
+                <YCoordinate value="-530"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="13">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="14">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-120"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="15">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-100"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="16">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="17">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-250"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+          </Mark1Array>
+          <Mark2Array>
+            <!-- Mark2Count=18 -->
+            <Mark2Record index="0">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="1">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="2">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="3">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="4">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="5">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="6">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="7">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="8">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="9">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="10">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="50"/>
+                <YCoordinate value="80"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="11">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="12">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="400"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="13">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="480"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="14">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="500"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="15">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="530"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="16">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="480"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="17">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="580"/>
+              </Mark2Anchor>
+            </Mark2Record>
+          </Mark2Array>
+        </MarkMarkPos>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="6"/>
+        <LookupFlag value="256"/>
+        <!-- SubTableCount=1 -->
+        <MarkMarkPos index="0" Format="1">
+          <Mark1Coverage Format="2">
+            <Glyph value="uni0E38"/>
+            <Glyph value="uni0E39"/>
+            <Glyph value="uni0E3A"/>
+          </Mark1Coverage>
+          <Mark2Coverage Format="2">
+            <Glyph value="uni0E38"/>
+            <Glyph value="uni0E39"/>
+            <Glyph value="uni0E3A"/>
+          </Mark2Coverage>
+          <!-- ClassCount=1 -->
+          <Mark1Array>
+            <!-- MarkCount=3 -->
+            <MarkRecord index="0">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="1">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+            <MarkRecord index="2">
+              <Class value="0"/>
+              <MarkAnchor Format="1">
+                <XCoordinate value="-30"/>
+                <YCoordinate value="0"/>
+              </MarkAnchor>
+            </MarkRecord>
+          </Mark1Array>
+          <Mark2Array>
+            <!-- Mark2Count=3 -->
+            <Mark2Record index="0">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-520"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="1">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="0"/>
+                <YCoordinate value="-520"/>
+              </Mark2Anchor>
+            </Mark2Record>
+            <Mark2Record index="2">
+              <Mark2Anchor index="0" Format="1">
+                <XCoordinate value="-30"/>
+                <YCoordinate value="-360"/>
+              </Mark2Anchor>
+            </Mark2Record>
+          </Mark2Array>
+        </MarkMarkPos>
+      </Lookup>
+    </LookupList>
+  </GPOS>
+
+</ttFont>

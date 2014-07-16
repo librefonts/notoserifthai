@@ -1,0 +1,153 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<ttFont ttLibVersion="2.4">
+
+  <GSUB>
+    <Version value="1.0"/>
+    <ScriptList>
+      <!-- ScriptCount=1 -->
+      <ScriptRecord index="0">
+        <ScriptTag value="thai"/>
+        <Script>
+          <DefaultLangSys>
+            <ReqFeatureIndex value="65535"/>
+            <!-- FeatureCount=1 -->
+            <FeatureIndex index="0" value="0"/>
+          </DefaultLangSys>
+          <!-- LangSysCount=0 -->
+        </Script>
+      </ScriptRecord>
+    </ScriptList>
+    <FeatureList>
+      <!-- FeatureCount=1 -->
+      <FeatureRecord index="0">
+        <FeatureTag value="ccmp"/>
+        <Feature>
+          <!-- LookupCount=4 -->
+          <LookupListIndex index="0" value="0"/>
+          <LookupListIndex index="1" value="1"/>
+          <LookupListIndex index="2" value="2"/>
+          <LookupListIndex index="3" value="3"/>
+        </Feature>
+      </FeatureRecord>
+    </FeatureList>
+    <LookupList>
+      <!-- LookupCount=6 -->
+      <Lookup index="0">
+        <LookupType value="6"/>
+        <LookupFlag value="256"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=0 -->
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="1">
+            <Glyph value="uni0E0D"/>
+            <Glyph value="uni0E10"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=1 -->
+          <LookAheadCoverage index="0" Format="2">
+            <Glyph value="uni0E38"/>
+            <Glyph value="uni0E39"/>
+            <Glyph value="uni0E3A"/>
+          </LookAheadCoverage>
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="4"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="1">
+        <LookupType value="2"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <MultipleSubst index="0" Format="1">
+          <Coverage Format="1">
+            <Glyph value="uni0E33"/>
+          </Coverage>
+          <!-- SequenceCount=1 -->
+          <Sequence index="0">
+            <!-- GlyphCount=2 -->
+            <Substitute index="0" value="uni0E4D"/>
+            <Substitute index="1" value="uni0E32"/>
+          </Sequence>
+        </MultipleSubst>
+      </Lookup>
+      <Lookup index="2">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni0E48.small" out="uni0E48"/>
+          <Substitution in="uni0E49.small" out="uni0E49"/>
+          <Substitution in="uni0E4A.small" out="uni0E4A"/>
+          <Substitution in="uni0E4B.small" out="uni0E4B"/>
+          <Substitution in="uni0E4C.small" out="uni0E4C"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="3">
+        <LookupType value="6"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <ChainContextSubst index="0" Format="3">
+          <!-- BacktrackGlyphCount=1 -->
+          <BacktrackCoverage index="0" Format="2">
+            <Glyph value="uni0E31"/>
+            <Glyph value="uni0E34"/>
+            <Glyph value="uni0E35"/>
+            <Glyph value="uni0E36"/>
+            <Glyph value="uni0E37"/>
+            <Glyph value="uni0E47"/>
+            <Glyph value="uni0E48"/>
+            <Glyph value="uni0E49"/>
+            <Glyph value="uni0E4A"/>
+            <Glyph value="uni0E4B"/>
+            <Glyph value="uni0E4C"/>
+            <Glyph value="uni0E4D"/>
+            <Glyph value="uni0E4E"/>
+            <Glyph value="uni0E48.small"/>
+            <Glyph value="uni0E49.small"/>
+            <Glyph value="uni0E4A.small"/>
+            <Glyph value="uni0E4B.small"/>
+            <Glyph value="uni0E4C.small"/>
+          </BacktrackCoverage>
+          <!-- InputGlyphCount=1 -->
+          <InputCoverage index="0" Format="2">
+            <Glyph value="uni0E48"/>
+            <Glyph value="uni0E49"/>
+            <Glyph value="uni0E4A"/>
+            <Glyph value="uni0E4B"/>
+            <Glyph value="uni0E4C"/>
+          </InputCoverage>
+          <!-- LookAheadGlyphCount=0 -->
+          <!-- SubstCount=1 -->
+          <SubstLookupRecord index="0">
+            <SequenceIndex value="0"/>
+            <LookupListIndex value="5"/>
+          </SubstLookupRecord>
+        </ChainContextSubst>
+      </Lookup>
+      <Lookup index="4">
+        <LookupType value="1"/>
+        <LookupFlag value="256"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni0E0D" out="uni0E0D.alt1"/>
+          <Substitution in="uni0E10" out="uni0E10.alt1"/>
+        </SingleSubst>
+      </Lookup>
+      <Lookup index="5">
+        <LookupType value="1"/>
+        <LookupFlag value="0"/>
+        <!-- SubTableCount=1 -->
+        <SingleSubst index="0" Format="2">
+          <Substitution in="uni0E48" out="uni0E48.small"/>
+          <Substitution in="uni0E49" out="uni0E49.small"/>
+          <Substitution in="uni0E4A" out="uni0E4A.small"/>
+          <Substitution in="uni0E4B" out="uni0E4B.small"/>
+          <Substitution in="uni0E4C" out="uni0E4C.small"/>
+        </SingleSubst>
+      </Lookup>
+    </LookupList>
+  </GSUB>
+
+</ttFont>
