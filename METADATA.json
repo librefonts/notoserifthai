@@ -1,0 +1,33 @@
+{
+  "name": "Noto Serif Thai",
+  "designer": "Monotype Design team",
+  "license": "",
+  "visibility": "Sandbox",
+  "category": "monospace",
+  "size": 12168,
+  "fonts": [
+    {
+      "name": "Noto Serif Thai",
+      "style": "normal",
+      "weight": 700,
+      "filename": "NotoSerifThai-Bold.ttf",
+      "postScriptName": "NotoSerifThai-Bold",
+      "fullName": "Noto Serif Thai Bold",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    },
+    {
+      "name": "Noto Serif Thai",
+      "style": "normal",
+      "weight": 400,
+      "filename": "NotoSerifThai-Regular.ttf",
+      "postScriptName": "NotoSerifThai",
+      "fullName": "Noto Serif Thai",
+      "copyright": "Copyright 2012 Google Inc. All Rights Reserved."
+    }
+  ],
+  "subsets": [
+    "latin",
+    "menu"
+  ],
+  "dateAdded": "2014-10-06"
+}
